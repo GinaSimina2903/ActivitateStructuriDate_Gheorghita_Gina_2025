@@ -178,11 +178,11 @@ int main() {
 	printf("\n---------------SUMA MASINI SOFER---------------\n");
 	printf("%.2f", calculeazaPretulMasinilorUnuiSofer(masini, "Elena Ionescu"));
 
-	printf("\n----------------------------------------------------------------------------------------------------------\n");
+	printf("\n--------------------------------STERGERE MASINI--------------------------------------------------\n");
 	stergeMasiniDinSeria(&masini, 'A');
 	afisareListaMasini(masini);
 
-	printf("\n----------------------------------------------------------------------------------------------------------\n");
+	printf("\n--------------------------------------------------STERGERE MASINI--------------------------------------------------------\n");
 	stergeMasiniDinSeria(&masini, 'B');
 	afisareListaMasini(masini);
 
