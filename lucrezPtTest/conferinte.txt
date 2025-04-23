@@ -1,0 +1,5 @@
+Intalnire,IT,2019,200
+Conferinta,Financiar,2020,300
+Meeting,HR,2021,400
+Sedinta,Marketing,2022,500
+Workshop,IT,2023,600

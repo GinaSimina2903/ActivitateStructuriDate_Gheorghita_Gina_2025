@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|solutionrelative:Sub3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|solutionrelative:Sub4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|solutionrelative:Sub6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|solutionrelative:Sub7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\conferinte.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|solutionrelative:conferinte.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|solutionrelative:Sub5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|solutionrelative:Sub1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80C69FFC-0AF0-4181-8502-3D7C45E894D3}|lucrezPtTest.vcxproj|solutionrelative:Sub2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sub6.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub6.c",
+              "RelativeDocumentMoniker": "Sub6.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub6.c",
+              "RelativeToolTip": "Sub6.c",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwF4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-09T08:07:31.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sub1.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub1.c",
+              "RelativeDocumentMoniker": "Sub1.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub1.c",
+              "RelativeToolTip": "Sub1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-08T23:08:40.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sub3.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub3.c",
+              "RelativeDocumentMoniker": "Sub3.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub3.c",
+              "RelativeToolTip": "Sub3.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-08T19:58:47.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sub7.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub7.c",
+              "RelativeDocumentMoniker": "Sub7.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub7.c",
+              "RelativeToolTip": "Sub7.c",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-09T08:51:49.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "conferinte.txt",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\conferinte.txt",
+              "RelativeDocumentMoniker": "conferinte.txt",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\conferinte.txt",
+              "RelativeToolTip": "conferinte.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-09T08:54:44.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sub2.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub2.c",
+              "RelativeDocumentMoniker": "Sub2.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub2.c",
+              "RelativeToolTip": "Sub2.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-08T23:07:59.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sub5.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub5.c",
+              "RelativeDocumentMoniker": "Sub5.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub5.c",
+              "RelativeToolTip": "Sub5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-08T22:14:29.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sub4.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub4.c",
+              "RelativeDocumentMoniker": "Sub4.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\lucrezPtTest\\Sub4.c",
+              "RelativeToolTip": "Sub4.c",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAwJ8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-08T19:48:07.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

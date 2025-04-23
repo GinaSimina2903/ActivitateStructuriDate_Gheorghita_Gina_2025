@@ -1,0 +1,10 @@
+1,Tricou,200,Anulata
+2,Blugi,320,Livrata
+3,Adidasi,450,Livrata
+4,Geaca,600,Plasata
+5,Palton,800,Livrata
+6,Incaltaminte,500,Anulata
+7,Hanorac,350,Plasata
+8,Costum,1200,Plasata
+9,Esarfa,150,Livrata
+10,Palarie,250,Anulata
