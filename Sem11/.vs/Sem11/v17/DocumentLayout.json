@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Sem11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB31CA9-DDA5-413A-9AE1-B53B3C84BD75}|Sem11.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Sem11\\Sem12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CB31CA9-DDA5-413A-9AE1-B53B3C84BD75}|Sem11.vcxproj|solutionrelative:Sem12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sem12.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Sem11\\Sem12.c",
+              "RelativeDocumentMoniker": "Sem12.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Sem11\\Sem12.c",
+              "RelativeToolTip": "Sem12.c",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAwLEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-21T13:17:45.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
