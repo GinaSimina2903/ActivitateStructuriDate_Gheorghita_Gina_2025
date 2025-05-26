@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CartiABCSubict.c" />
     <ClCompile Include="Semianr8SI9ABC_RELUAT.c" />
     <ClCompile Include="Seminar10StivaReluat.c" />
     <ClCompile Include="Seminar7HEAP_RELUAT.c" />
@@ -138,6 +139,7 @@
   <ItemGroup>
     <Text Include="bileteAVL.txt" />
     <Text Include="biblioteciAVL.txt" />
+    <Text Include="carti.txt" />
     <Text Include="echipamente.txt" />
     <Text Include="masini.txt" />
     <Text Include="masiniArbore.txt" />

@@ -1,0 +1,5 @@
+2,200,300.00,Titlu2,Autor2,S
+3,150,100.00,Titlu3,Autor3,G
+5,50,400.00,Titlu5,Autor5,R
+4,70,80.00,Titlu4,Autor4,S
+1,90,240.00,Titlu1,Autor1,G

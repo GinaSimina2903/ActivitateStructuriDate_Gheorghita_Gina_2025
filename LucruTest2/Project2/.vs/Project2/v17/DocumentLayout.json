@@ -1,53 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\",
+  "WorkspaceRootPath": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\SubiectAVLBibliotecaDigitala.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:SubiectAVLBibliotecaDigitala.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\CartiABCSubict.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:CartiABCSubict.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\SubiectABCEchipamenteElectronice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:SubiectABCEchipamenteElectronice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\biblioteciAVL.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:biblioteciAVL.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\SubiectAVLGestionareBileteAvion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:SubiectAVLGestionareBileteAvion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\Seminar10AVL_RELUAT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:Seminar10AVL_RELUAT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\Seminar10StivaReluat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:Seminar10StivaReluat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\bileteAVL.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:bileteAVL.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\Semianr8SI9ABC_RELUAT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Semianr8SI9ABC_RELUAT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:Semianr8SI9ABC_RELUAT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\Seminar7HEAP_RELUAT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\SubiectAVLBibliotecaDigitala.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:SubiectAVLBibliotecaDigitala.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\carti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:carti.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\SubiectABCEchipamenteElectronice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:SubiectABCEchipamenteElectronice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\SubiectAVLGestionareBileteAvion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:SubiectAVLGestionareBileteAvion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Seminar10StivaReluat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:Seminar10StivaReluat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Seminar10AVL_RELUAT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:Seminar10AVL_RELUAT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Seminar7HEAP_RELUAT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:Seminar7HEAP_RELUAT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\echipamente.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\bileteAVL.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:bileteAVL.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\biblioteciAVL.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:biblioteciAVL.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\echipamente.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:echipamente.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\masiniArbore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\masiniArbore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:masiniArbore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C95CDE20-A1D4-4CCA-BC65-462DC9EEF099}|Project2.vcxproj|solutionrelative:masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -58,40 +66,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "carti.txt",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\carti.txt",
+              "RelativeDocumentMoniker": "carti.txt",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\carti.txt",
+              "RelativeToolTip": "carti.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-26T14:23:29.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CartiABCSubict.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\CartiABCSubict.c",
+              "RelativeDocumentMoniker": "CartiABCSubict.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\CartiABCSubict.c",
+              "RelativeToolTip": "CartiABCSubict.c",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAiwOYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-26T13:23:00.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SubiectAVLBibliotecaDigitala.c",
-              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\SubiectAVLBibliotecaDigitala.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\SubiectAVLBibliotecaDigitala.c",
               "RelativeDocumentMoniker": "SubiectAVLBibliotecaDigitala.c",
-              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\SubiectAVLBibliotecaDigitala.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\SubiectAVLBibliotecaDigitala.c",
               "RelativeToolTip": "SubiectAVLBibliotecaDigitala.c",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwCEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwIkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-25T22:26:04.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Seminar10StivaReluat.c",
-              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\Seminar10StivaReluat.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Seminar10StivaReluat.c",
               "RelativeDocumentMoniker": "Seminar10StivaReluat.c",
-              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\Seminar10StivaReluat.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Seminar10StivaReluat.c",
               "RelativeToolTip": "Seminar10StivaReluat.c",
               "ViewState": "AgIAAJkAAABA/ShgH6klwGwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-25T18:30:05.261Z"
+              "WhenOpened": "2025-05-25T18:30:05.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "bileteAVL.txt",
-              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\bileteAVL.txt",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\bileteAVL.txt",
               "RelativeDocumentMoniker": "bileteAVL.txt",
-              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\bileteAVL.txt",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\bileteAVL.txt",
               "RelativeToolTip": "bileteAVL.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -99,35 +134,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Seminar10AVL_RELUAT.c",
-              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\Seminar10AVL_RELUAT.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Seminar10AVL_RELUAT.c",
               "RelativeDocumentMoniker": "Seminar10AVL_RELUAT.c",
-              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\Seminar10AVL_RELUAT.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Seminar10AVL_RELUAT.c",
               "RelativeToolTip": "Seminar10AVL_RELUAT.c",
               "ViewState": "AgIAAPwAAAAAAAAAAAAwwBgBAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-24T18:04:23.516Z"
+              "WhenOpened": "2025-05-24T18:04:23.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SubiectABCEchipamenteElectronice.c",
-              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\SubiectABCEchipamenteElectronice.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\SubiectABCEchipamenteElectronice.c",
               "RelativeDocumentMoniker": "SubiectABCEchipamenteElectronice.c",
-              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\SubiectABCEchipamenteElectronice.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\SubiectABCEchipamenteElectronice.c",
               "RelativeToolTip": "SubiectABCEchipamenteElectronice.c",
-              "ViewState": "AgIAAPEAAAAAAAAAAAAAAAQBAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAAAQBAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-24T15:01:31.024Z"
+              "WhenOpened": "2025-05-24T15:01:31.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "biblioteciAVL.txt",
-              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\biblioteciAVL.txt",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\biblioteciAVL.txt",
               "RelativeDocumentMoniker": "biblioteciAVL.txt",
-              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\biblioteciAVL.txt",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\biblioteciAVL.txt",
               "RelativeToolTip": "biblioteciAVL.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -135,23 +172,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "SubiectAVLGestionareBileteAvion.c",
-              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\SubiectAVLGestionareBileteAvion.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\SubiectAVLGestionareBileteAvion.c",
               "RelativeDocumentMoniker": "SubiectAVLGestionareBileteAvion.c",
-              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\SubiectAVLGestionareBileteAvion.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\SubiectAVLGestionareBileteAvion.c",
               "RelativeToolTip": "SubiectAVLGestionareBileteAvion.c",
-              "ViewState": "AgIAAAQBAAAAAAAAAAAwwCABAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAwwBEBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-25T14:38:49.431Z"
+              "WhenOpened": "2025-05-25T14:38:49.431Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "echipamente.txt",
-              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\echipamente.txt",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\echipamente.txt",
               "RelativeDocumentMoniker": "echipamente.txt",
-              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\echipamente.txt",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\echipamente.txt",
               "RelativeToolTip": "echipamente.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -159,11 +197,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "masiniArbore.txt",
-              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\masiniArbore.txt",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\masiniArbore.txt",
               "RelativeDocumentMoniker": "masiniArbore.txt",
-              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\masiniArbore.txt",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\masiniArbore.txt",
               "RelativeToolTip": "masiniArbore.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -171,23 +209,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Semianr8SI9ABC_RELUAT.c",
-              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\Semianr8SI9ABC_RELUAT.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Semianr8SI9ABC_RELUAT.c",
               "RelativeDocumentMoniker": "Semianr8SI9ABC_RELUAT.c",
-              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\Semianr8SI9ABC_RELUAT.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Semianr8SI9ABC_RELUAT.c",
               "RelativeToolTip": "Semianr8SI9ABC_RELUAT.c",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAAF0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAANUAAAAAAAAAAAAuwK4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-24T12:20:16.853Z"
+              "WhenOpened": "2025-05-24T12:20:16.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "masini.txt",
-              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\masini.txt",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\masini.txt",
               "RelativeDocumentMoniker": "masini.txt",
-              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\masini.txt",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\masini.txt",
               "RelativeToolTip": "masini.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -197,13 +236,14 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Seminar7HEAP_RELUAT.c",
-              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\Seminar7HEAP_RELUAT.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Seminar7HEAP_RELUAT.c",
               "RelativeDocumentMoniker": "Seminar7HEAP_RELUAT.c",
-              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\Project2\\Seminar7HEAP_RELUAT.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Seminar7HEAP_RELUAT.c",
               "RelativeToolTip": "Seminar7HEAP_RELUAT.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-23T13:56:46.3Z"
+              "WhenOpened": "2025-05-23T13:56:46.3Z",
+              "EditorCaption": ""
             }
           ]
         }
