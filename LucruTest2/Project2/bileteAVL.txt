@@ -1,0 +1,10 @@
+5,200.00,240,Wizz Air,Londra,E
+2,150.00,180,Ryanair,Bucuresti,E
+1,300.00,360,Tarom,Bucuresti,B
+3,100.00,120,Blue Air,Bucuresti,E
+8,250.00,300,Air France,Paris,B
+4,400.00,480,Lufthansa,Bucuresti,B
+6,350.00,420,KLM,Amsterdam,B
+7,500.00,600,Emirates,Dubai,B
+9,600.00,720,Qatar Airways,Doha,E
+10,700.00,800,Turkish Airlines,Istanbul,B

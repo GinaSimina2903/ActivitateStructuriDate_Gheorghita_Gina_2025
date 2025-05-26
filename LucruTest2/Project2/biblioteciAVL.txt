@@ -1,0 +1,10 @@
+5,200,55.00,Maitreyi,Mircea Eliade,S
+2,300,75.00,The Alchemist,Mircea Eliade,D
+1,150,45.00,1984,George Orwell,M
+6,250,60.00,To Kill a Mockingbird,Harper Lee,D
+4,400,80.00,The Great Gatsby,F. Scott Fitzgerald,D
+3,500,90.00,Pride and Prejudice,Jane Austen,D
+8,600,100.00,The Catcher in the Rye,J.D. Salinger,D
+7,700,110.00,Brave New World,Aldous Huxley,D
+10,800,120.00,The Picture of Dorian Gray,Oscar Wilde,D
+9,900,130.00,War and Peace,Leo Tolstoy,D

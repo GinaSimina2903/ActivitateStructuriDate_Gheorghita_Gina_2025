@@ -1,0 +1,10 @@
+3,24,4500.00,Laptop Lenovo Legion,Altex,L
+1,12,800.00,Mouse Logitech,Emag,P
+5,36,1200.00,Monitor Dell,Genius,M
+6,18,1500.00,Mousepad SteelSeries,Altex,P
+2,30,2500.00,Smartphone Samsung,Emag,S
+4,20,3000.00,Tableta Apple,Altex,T
+7,15,2000.00,Mouse Razer,Emag,P
+9,10,3500.00,Smartwatch Huawei,Altex,W
+8,22,5000.00,Telecomanda Philips,Emag,C
+10,25,6000.00,Boxe JBL,Altex,B
