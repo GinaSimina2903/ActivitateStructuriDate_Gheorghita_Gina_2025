@@ -1,0 +1,5 @@
+3,150,9.7,Inception,S
+5,70,9.1,Interstellar,D
+2,120,8.5,The Dark Knight,R
+4,100,8.8,The Matrix,S
+1,90,9.0,The Shawshank Redemption,D

@@ -48,6 +48,12 @@
     <ClCompile Include="ComanziOnlineQueue.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GestiuneProduse.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GestiuneFilmeAVL.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />
@@ -59,5 +65,7 @@
     <Text Include="DocumenteStiva.txt" />
     <Text Include="comenzi.txt" />
     <Text Include="comenziOnline.txt" />
+    <Text Include="produse.txt" />
+    <Text Include="filme.txt" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,5 @@
+3,400.99,Milka cioco,D
+5,200.50,Carrefour suc portocale,S
+1,150.00,Paine VelPitar,P
+4,99.99,Carrefour detergent,D
+2,50.00,Milka cioco,D

@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="CartiABCSubict.c" />
     <ClCompile Include="ComanziOnlineQueue.c" />
+    <ClCompile Include="GestiuneFilmeAVL.c" />
+    <ClCompile Include="GestiuneProduse.c" />
     <ClCompile Include="Semianr8SI9ABC_RELUAT.c" />
     <ClCompile Include="Seminar10StivaReluat.c" />
     <ClCompile Include="Seminar7HEAP_RELUAT.c" />
@@ -147,8 +149,10 @@
     <Text Include="comenziOnline.txt" />
     <Text Include="DocumenteStiva.txt" />
     <Text Include="echipamente.txt" />
+    <Text Include="filme.txt" />
     <Text Include="masini.txt" />
     <Text Include="masiniArbore.txt" />
+    <Text Include="produse.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
