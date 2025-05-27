@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\SubiectAVLBibliotecaDigitala.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LucruTest2\\Project2\\SubiectAVLBibliotecaDigitala.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Seminar10AVL_RELUAT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LucruTest2\\Project2\\Seminar10AVL_RELUAT.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\Seminar11||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar11||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\Seminar10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\Seminar6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\Seminar4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:masini.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubiectAVLBibliotecaDigitala.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\SubiectAVLBibliotecaDigitala.c",
+              "RelativeDocumentMoniker": "LucruTest2\\Project2\\SubiectAVLBibliotecaDigitala.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\SubiectAVLBibliotecaDigitala.c",
+              "RelativeToolTip": "LucruTest2\\Project2\\SubiectAVLBibliotecaDigitala.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-26T12:59:23.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seminar10AVL_RELUAT.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Seminar10AVL_RELUAT.c",
+              "RelativeDocumentMoniker": "LucruTest2\\Project2\\Seminar10AVL_RELUAT.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\LucruTest2\\Project2\\Seminar10AVL_RELUAT.c",
+              "RelativeToolTip": "LucruTest2\\Project2\\Seminar10AVL_RELUAT.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-26T12:59:21.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seminar11",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\Seminar11",
+              "RelativeDocumentMoniker": "Seminar11",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\Seminar11",
+              "RelativeToolTip": "Seminar11",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-21T12:02:59.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Seminar10.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\Seminar10.c",
+              "RelativeDocumentMoniker": "Seminar10.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\Seminar10.c",
+              "RelativeToolTip": "Seminar10.c",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAkwOwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-15T07:44:58.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seminar6.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\Seminar6.c",
+              "RelativeDocumentMoniker": "Seminar6.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\Seminar6.c",
+              "RelativeToolTip": "Seminar6.c",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAKgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-05T12:43:47.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "masini.txt",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\masini.txt",
+              "RelativeDocumentMoniker": "masini.txt",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\masini.txt",
+              "RelativeToolTip": "masini.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-18T19:40:51.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Seminar4.c",
+              "DocumentMoniker": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\Seminar4.c",
+              "RelativeDocumentMoniker": "Seminar4.c",
+              "ToolTip": "C:\\Users\\ginas\\OneDrive\\Desktop\\facultate\\AN 3 SEM 2\\SDD Recuperare\\RepoGit\\Seminar4.c",
+              "RelativeToolTip": "Seminar4.c",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAwLkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-18T19:40:50.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

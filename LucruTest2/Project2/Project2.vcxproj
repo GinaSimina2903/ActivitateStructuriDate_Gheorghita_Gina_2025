@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CartiABCSubict.c" />
+    <ClCompile Include="ComanziOnlineQueue.c" />
     <ClCompile Include="Semianr8SI9ABC_RELUAT.c" />
     <ClCompile Include="Seminar10StivaReluat.c" />
     <ClCompile Include="Seminar7HEAP_RELUAT.c" />
@@ -135,11 +136,16 @@
     <ClCompile Include="SubiectABCEchipamenteElectronice.c" />
     <ClCompile Include="SubiectAVLBibliotecaDigitala.c" />
     <ClCompile Include="SubiectAVLGestionareBileteAvion.c" />
+    <ClCompile Include="SubiectStivaComanda.c" />
+    <ClCompile Include="SubiectStivaDocument.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="bileteAVL.txt" />
     <Text Include="biblioteciAVL.txt" />
     <Text Include="carti.txt" />
+    <Text Include="comenzi.txt" />
+    <Text Include="comenziOnline.txt" />
+    <Text Include="DocumenteStiva.txt" />
     <Text Include="echipamente.txt" />
     <Text Include="masini.txt" />
     <Text Include="masiniArbore.txt" />

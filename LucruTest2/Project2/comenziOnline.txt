@@ -1,0 +1,5 @@
+3,Gina,3 mai,500.00,C
+5,Jenica,20 august,300.00,R
+1,Popescu Ana,10 ianuarie,289.00,C
+4,Georgescu Vlad,5 iunie,400.00,R
+2,Stan Mihai,22 septembrie,120.50,C

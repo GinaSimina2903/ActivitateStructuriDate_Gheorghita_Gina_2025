@@ -3,6 +3,11 @@
 #include <stdlib.h>
 #include <string.h>
 
+// chaining, liniar probing, quadratic probing
+// double hashing, rehashing
+// rehashing - cand avem toate pozitiile ocupate si mai avem de adaugat, facem o noua dimensiune si rehashuim
+
+typedef struct StructuraMasina Masina;
 struct StructuraMasina {
 	int id;
 	int nrUsi;
@@ -11,22 +16,18 @@ struct StructuraMasina {
 	char* numeSofer;
 	unsigned char serie;
 };
-typedef struct StructuraMasina Masina;
 
+typedef struct Nod Nod;
 struct Nod {
 	Masina info;
-	struct Nod* next;
-	struct Nod* prev;
-};
-typedef struct Nod Nod;
-
-struct listaDubla {
-	Nod* head;
-	Nod* tail;
-	int nrNoduri;
+	Nod* next;
 };
 
-typedef struct listaDubla listaDubla;
+typedef struct HashTable HashTable;
+struct HashTable {
+	int dim;
+	Nod** vector; // vector de pointeri
+};
 
 Masina citireMasinaDinFisier(FILE* file) {
 	char buffer[100];
@@ -39,11 +40,11 @@ Masina citireMasinaDinFisier(FILE* file) {
 	m1.nrUsi = atoi(strtok(NULL, sep));
 	m1.pret = atof(strtok(NULL, sep));
 	aux = strtok(NULL, sep);
-	m1.model = malloc(strlen(aux) + 1);
+	m1.model = (char*)malloc(strlen(aux) + 1);
 	strcpy_s(m1.model, strlen(aux) + 1, aux);
 
 	aux = strtok(NULL, sep);
-	m1.numeSofer = malloc(strlen(aux) + 1);
+	m1.numeSofer = (char*)malloc(strlen(aux) + 1);
 	strcpy_s(m1.numeSofer, strlen(aux) + 1, aux);
 
 	m1.serie = *strtok(NULL, sep);
@@ -59,136 +60,110 @@ void afisareMasina(Masina masina) {
 	printf("Serie: %c\n\n", masina.serie);
 }
 
-void afisareListaMasiniDeLaFinal(listaDubla listaDubla) {
-	Nod* temp = listaDubla.tail;
-	while (temp) {
-		afisareMasina(temp->info);
-		temp = temp->prev;
+void afisareListaMasini(Nod* cap) {
+	while (cap) {
+		afisareMasina(cap->info);
+		cap = cap->next;
 	}
 }
 
-void afisareListaMasiniDeLaInceput(listaDubla listaDubla) {
-	Nod* temp = listaDubla.head;
-	while (temp) {
-		afisareMasina(temp->info);
-		temp = temp->next;
+void adaugaMasinaInLista(Nod* cap, Masina masinaNoua) { // daca lasam cu Nod* inseamna ca sigur exista lista, 
+	// nu putem sa facem asta daca nu exista lista cand apelam
+	Nod* nou = (Nod*)malloc(sizeof(Nod));
+	nou->info = masinaNoua;
+	nou->next = NULL;
+	while (cap->next) {
+		cap = cap->next;
 	}
+	cap->next = nou;
 }
 
-void adaugaMasinaInListaLaFinal(listaDubla* listaDubla, Masina masinaNoua) {
-	Nod* nodNou = (Nod*)malloc(sizeof(Nod));
-	nodNou->info = masinaNoua;
-	nodNou->next = NULL;
-	nodNou->prev = listaDubla->tail;
 
-	if (listaDubla->head == NULL) {
-		listaDubla->head = nodNou;
+HashTable initializareHashTable(int dimensiune) {
+	HashTable ht;
+	ht.dim = dimensiune;
+	ht.vector = (Nod*)malloc(sizeof(Nod) * dimensiune);
+	for (int i = 0; i < dimensiune; i++) {
+		ht.vector[i] = NULL;
+	}
+	return ht;
+}
+
+int calculeazaHash(const char* model, int dimensiune) {
+	int suma = 0; // ar trb sa vedem daca dimensiune e diferit de 0 ca sa fie perfect
+	for (int i = 0; i < strlen(model); i++) {
+		suma += model[i];
+	}
+	return suma % dimensiune;
+}
+
+void inserareMasinaInTabela(HashTable hash, Masina masina) {
+	int pozitie = calculeazaHash(masina.model, hash.dim);
+	if (hash.vector[pozitie] != NULL) {
+		// AVEM COLIZIUNE !! 
+		adaugaMasinaInLista(hash.vector[pozitie], masina);
 	}
 	else {
-		listaDubla->tail->next = nodNou;
+		// NU AVEM COLIZIUNE !!, daca functia adaugaMasinaInLista o facem si pt atunci cand dimensiunea e 0 atunci puteam sa punem direct functia aia
+		hash.vector[pozitie] = (Nod*)malloc(sizeof(Nod));
+		hash.vector[pozitie]->info = masina;
+		hash.vector[pozitie]->next = NULL;
 	}
-
-	listaDubla->nrNoduri++;
-	listaDubla->tail = nodNou;
 }
 
-void adaugaLaInceputInLista(listaDubla* listaDubla, Masina masinaNoua) {
-	Nod* nodNou = (Nod*)malloc(sizeof(Nod));
-	nodNou->info = masinaNoua;
-	nodNou->prev = NULL;
-	nodNou->next = listaDubla->head;
-
-	if (listaDubla->head == NULL) {
-		listaDubla->tail = nodNou;
+HashTable citireMasiniDinFisier(const char* numeFisier, int dimensiune) {
+	FILE* file = fopen(numeFisier, "r");
+	HashTable hash = initializareHashTable(dimensiune);
+	while (!feof(file)) {
+		Masina masina = citireMasinaDinFisier(file);
+		inserareMasinaInTabela(hash, masina);
 	}
-	else {
-		listaDubla->head->prev = nodNou;
-	}
-
-	listaDubla->head = nodNou;
-	listaDubla->nrNoduri++;
+	fclose(file);
+	return hash;
 }
 
-listaDubla citireLDMasiniDinFisier(const char* numeFisier) {
-	listaDubla lista;
-	lista.head = NULL;
-	lista.tail = NULL;
-	lista.nrNoduri = 0;
-	FILE* f = fopen(numeFisier, "r");
-
-	while (!feof(f)) {
-		adaugaMasinaInListaLaFinal(&lista, citireMasinaDinFisier(f));
+void afisareTabelaDeMasini(HashTable ht) {
+	//sunt afisate toate masinile cu evidentierea clusterelor realizate - evidentiem toate coliziunile pe care le am avut
+	for (int i = 0; i < ht.dim; i++) {
+		printf("\nClusterul %d:\n", i);
+		afisareListaMasini(ht.vector[i]);
 	}
-	fclose(f);
-	return lista;
 }
 
-void dezalocareLDMasini(listaDubla* listaDubla) {
-	if (listaDubla->head) {
-		Nod* temp = listaDubla->head;
-		while (temp->next != NULL) {
-			free(temp->info.numeSofer);
-			free(temp->info.model);
-			temp = temp->next;
-			free(temp->prev);
+void dezalocareTabelaDeMasini(HashTable* ht) {
+	//sunt dezalocate toate masinile din tabela de dispersie
+}
+
+float* calculeazaPreturiMediiPerClustere(HashTable ht, int* nrClustere) {
+	//calculeaza pretul mediu al masinilor din fiecare cluster.
+	//trebuie sa returnam un vector cu valorile medii per cluster.
+	//lungimea vectorului este data de numarul de clustere care contin masini
+	return NULL;
+}
+
+Masina getMasinaDupaCheie(HashTable ht, const char* model) {
+	//cauta masina dupa valoarea atributului cheie folosit in calcularea hash-ului
+	//trebuie sa modificam numele functiei 
+	int poz = calculeazaHash(model, ht.dim);
+	Masina masina;
+	masina.id = -1; // asta apare daca e == NULL, adica practic pe ramura else
+	if (ht.vector[poz] != NULL) {
+		Nod* p = ht.vector[poz];
+		while (p != NULL && strcmp(p->info.model, model) != 0) {
+			p = p->next;
 		}
-		free(temp->info.numeSofer);
-		free(temp->info.model);
-		free(temp);
-		listaDubla->head = NULL;
-		listaDubla->tail = NULL;
-		listaDubla->nrNoduri = 0;
-	}
-}
-
-float calculeazaPretMediu(listaDubla listaDubla) {
-	Nod* aux = listaDubla.head;
-	float suma = 0;
-	while (aux) {
-		suma += aux->info.pret;
-		aux = aux->next;
-	}
-	return listaDubla.nrNoduri ? suma / listaDubla.nrNoduri : 0;
-}
-
-void stergeMasinaDupaID(int id) {
-	//sterge masina cu id-ul primit.
-	//tratati situatia ca masina se afla si pe prima pozitie, si pe ultima pozitie
-
-	// ---------------------------- TEMA ------------------------------------
-}
-
-char* getNumeSoferMasinaScumpa(listaDubla lista) {
-	//cauta masina cea mai scumpa si 
-	Nod* temp = lista.head;
-	Nod* maxim = lista.head;
-	while (temp) {
-		if (temp->info.pret > maxim->info.pret) {
-			maxim = temp;
+		if (p != NULL) {
+			return p->info;
 		}
-		temp = temp->next;
-
 	}
-
-	char* numeCopiat = (char*)malloc(sizeof(maxim->info.numeSofer) + 1);
-	strcpy_s(numeCopiat, strlen(maxim->info.numeSofer) + 1, maxim->info.numeSofer);
-	return numeCopiat;
+	return masina;
 }
 
 int main() {
-	listaDubla lista;
-	lista = citireLDMasiniDinFisier("masini.txt");
-	afisareListaMasiniDeLaFinal(lista);
-	printf("\n--------------------------------------\n");
-	afisareListaMasiniDeLaInceput(lista);
-	printf("\n--------------------------------------\n");
-	float pretMediu = 0;
-	pretMediu = calculeazaPretMediu(lista);
-	printf("Pretul mediu este: %.2f", pretMediu);
-	printf("\n--------------------------------------\n");
-	char* numeReturnat = getNumeSoferMasinaScumpa(lista);
-	printf("Nume returnat: %s", numeReturnat);
-	dezalocareLDMasini(&lista);
-	dezalocareLDMasini(&lista);
+	HashTable hash = citireMasiniDinFisier("masini.txt", 10);
+	afisareTabelaDeMasini(hash);
+	printf("\n\nMasina de model Mokka: \n");
+	Masina m = getMasinaDupaCheie(hash, "Mokka");
+	afisareMasina(m);
 	return 0;
 }

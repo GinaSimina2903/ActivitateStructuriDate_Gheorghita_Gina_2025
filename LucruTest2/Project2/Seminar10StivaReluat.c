@@ -178,6 +178,7 @@
 //	//functia primeste numele fisierului, il deschide si citeste toate masinile din fisier
 //	//prin apelul repetat al functiei citireMasinaDinFisier()
 //	//ATENTIE - la final inchidem fisierul/stream-ul
+// 
 //	FILE* file = fopen(numeFisier, "r");
 //	ListaDubla* coada=(ListaDubla*)malloc(sizeof(ListaDubla));;
 //	coada->head = NULL;
@@ -268,5 +269,11 @@
 //	m = popStack(&stiva);
 //	afisareMasina(m);*/
 //
+// // COADA
+	/*ListaDubla coada = citireCoadaDeMasiniDinFisier("masini.txt");
+	Masina m = dequeue(&coada);
+	afisareMasina(m);
+	printf("Suma preturi: %.2f", calculeazaPretTotal(&coada));*/
+
 //	return 0;
 //}

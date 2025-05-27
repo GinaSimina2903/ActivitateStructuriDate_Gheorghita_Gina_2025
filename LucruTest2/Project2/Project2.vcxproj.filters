@@ -39,6 +39,15 @@
     <ClCompile Include="CartiABCSubict.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SubiectStivaDocument.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SubiectStivaComanda.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ComanziOnlineQueue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />
@@ -47,5 +56,8 @@
     <Text Include="bileteAVL.txt" />
     <Text Include="biblioteciAVL.txt" />
     <Text Include="carti.txt" />
+    <Text Include="DocumenteStiva.txt" />
+    <Text Include="comenzi.txt" />
+    <Text Include="comenziOnline.txt" />
   </ItemGroup>
 </Project>
