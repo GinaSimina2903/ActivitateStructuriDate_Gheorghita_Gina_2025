@@ -1,0 +1,56 @@
+@"
+# Exclude folderul generat de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Intermediate files
+*.obj
+*.log
+*.pch
+*.ipch
+*.tmp
+*.vspscc
+
+# Compiled binary files
+*.exe
+*.dll
+*.lib
+*.out
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# Nu include fișierele de cache ale IntelliSense
+*.VC.db
+*.VC.opendb
+
+# Fișiere temporare de sistem
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Fișiere de backup
+*.bak
+*.old
+*.orig
+
+# Fisiere generate de editori
+*.vscode/
+*.idea/
+*.code-workspace
+
+# Alte fișiere generate automat
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*.ilk
+*.ncb
+"@ | Set-Content -Path ".gitignore"
